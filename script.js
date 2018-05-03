@@ -4,8 +4,8 @@ $('.carousel').carousel({
   wrap: false
 })
 
-$(document).ready(function() {
-  $("img").on("contextmenu",function(){
-    return false;
-  });
-});
+// $(document).ready(function() {
+//   $("img").on("contextmenu",function(){
+//     return false;
+//   });
+// });
